@@ -1,0 +1,1681 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 65e453b8333b5a440b0e43343d6b514b, type: 3}
+  m_Name: Level1
+  m_EditorClassIdentifier: 
+  ObjsList:
+  - name: Coin
+    position: {x: 69.6, y: 12}
+  - name: Coin
+    position: {x: 18.4, y: 12.8}
+  - name: Coin
+    position: {x: 18.4, y: 13.6}
+  - name: Coin
+    position: {x: 18.4, y: 14.400001}
+  - name: Coin
+    position: {x: 21.6, y: 12.8}
+  - name: Coin
+    position: {x: 21.6, y: 13.6}
+  - name: Coin
+    position: {x: 21.6, y: 14.400001}
+  - name: Coin
+    position: {x: 22.4, y: 12.8}
+  - name: Coin
+    position: {x: 22.4, y: 13.6}
+  - name: Coin
+    position: {x: 22.4, y: 14.400001}
+  - name: Coin
+    position: {x: 30.4, y: 14.400001}
+  - name: Coin
+    position: {x: 31.199999, y: 14.400001}
+  - name: Coin
+    position: {x: 30.4, y: 15.200001}
+  - name: Coin
+    position: {x: 31.199999, y: 15.200001}
+  - name: Coin
+    position: {x: 32, y: 14.400001}
+  - name: Coin
+    position: {x: 32, y: 15.200001}
+  - name: Coin
+    position: {x: 38.4, y: 12.8}
+  - name: Coin
+    position: {x: 39.2, y: 12.8}
+  - name: Coin
+    position: {x: 40, y: 12.8}
+  - name: Coin
+    position: {x: 40.800003, y: 12.8}
+  - name: Coin
+    position: {x: 41.6, y: 12.8}
+  - name: Coin
+    position: {x: 60.8, y: 13.6}
+  - name: Coin
+    position: {x: 61.6, y: 13.6}
+  - name: Coin
+    position: {x: 62.399998, y: 13.6}
+  - name: Coin
+    position: {x: 63.2, y: 13.6}
+  - name: Coin
+    position: {x: 64, y: 13.6}
+  - name: Coin
+    position: {x: 69.6, y: 12.8}
+  - name: Coin
+    position: {x: 69.6, y: 13.6}
+  - name: Coin
+    position: {x: 83.2, y: 13.6}
+  - name: Coin
+    position: {x: 84, y: 13.6}
+  - name: Coin
+    position: {x: 98.399994, y: 15.200001}
+  - name: Coin
+    position: {x: 99.2, y: 15.200001}
+  - name: Coin
+    position: {x: 100, y: 15.200001}
+  - name: Coin
+    position: {x: 102.4, y: 12.8}
+  - name: Coin
+    position: {x: 103.200005, y: 13.6}
+  - name: Coin
+    position: {x: 104.8, y: 13.6}
+  - name: Coin
+    position: {x: 104, y: 14.400001}
+  - name: Coin
+    position: {x: 105.6, y: 12.8}
+  - name: Coin
+    position: {x: 12, y: 17.6}
+  - name: Coin
+    position: {x: 12.8, y: 17.6}
+  - name: Coin
+    position: {x: 13.6, y: 17.6}
+  - name: Coin
+    position: {x: 47.2, y: 18.4}
+  - name: Coin
+    position: {x: 48, y: 18.4}
+  - name: Coin
+    position: {x: 48.8, y: 18.4}
+  - name: Coin 75
+    position: {x: 49.6, y: 18.4}
+  - name: Coin 76
+    position: {x: 50.4, y: 18.4}
+  - name: Coin
+    position: {x: 56.800003, y: 16.8}
+  - name: Coin
+    position: {x: 54.4, y: 17.6}
+  - name: Coin
+    position: {x: 55.2, y: 17.6}
+  - name: Coin
+    position: {x: 56, y: 17.6}
+  - name: Coin
+    position: {x: 57.6, y: 16}
+  - name: Coin
+    position: {x: 80.799995, y: 18.4}
+  - name: Coin
+    position: {x: 81.59999, y: 18.4}
+  - name: Coin
+    position: {x: 82.399994, y: 18.4}
+  - name: Coin
+    position: {x: 83.2, y: 18.4}
+  - name: Coin
+    position: {x: 84, y: 18.4}
+  - name: Coin
+    position: {x: 84.799995, y: 18.4}
+  - name: Coin
+    position: {x: 92.8, y: 18.4}
+  - name: Coin
+    position: {x: 93.600006, y: 18.4}
+  - name: Coin
+    position: {x: 94.4, y: 18.4}
+  - name: Coin
+    position: {x: 95.200005, y: 18.4}
+  - name: Coin
+    position: {x: 96.799995, y: 18.4}
+  - name: Coin
+    position: {x: 97.59999, y: 18.4}
+  - name: Coin
+    position: {x: 98.399994, y: 18.4}
+  - name: Coin
+    position: {x: 100, y: 18.4}
+  - name: Coin
+    position: {x: 100.799995, y: 18.4}
+  - name: Coin
+    position: {x: 101.6, y: 18.4}
+  - name: Coin
+    position: {x: 30.4, y: 26.4}
+  - name: Coin
+    position: {x: 31.199999, y: 26.4}
+  - name: Coin
+    position: {x: 32, y: 26.4}
+  - name: Coin
+    position: {x: 32.8, y: 26.4}
+  - name: Coin
+    position: {x: 33.6, y: 26.4}
+  - name: Coin
+    position: {x: 34.4, y: 26.4}
+  - name: Coin
+    position: {x: 35.2, y: 26.4}
+  - name: Coin
+    position: {x: 36, y: 26.4}
+  - name: Coin
+    position: {x: 36.8, y: 26.4}
+  - name: Coin
+    position: {x: 37.600002, y: 26.4}
+  - name: Coin
+    position: {x: 39.2, y: 28.8}
+  - name: Coin
+    position: {x: 40, y: 28.8}
+  - name: Coin
+    position: {x: 40.800003, y: 28.8}
+  - name: Coin
+    position: {x: 41.6, y: 28.8}
+  - name: Coin
+    position: {x: 42.399998, y: 28.8}
+  - name: Coin
+    position: {x: 43.199997, y: 28.8}
+  - name: Coin
+    position: {x: 44, y: 28.8}
+  - name: Coin
+    position: {x: 44.8, y: 28.8}
+  - name: Coin
+    position: {x: 45.6, y: 28.8}
+  - name: Coin
+    position: {x: 46.399998, y: 28.8}
+  - name: Coin
+    position: {x: 47.2, y: 28.8}
+  - name: Coin
+    position: {x: 48, y: 28.8}
+  - name: Coin
+    position: {x: 48.8, y: 28.8}
+  - name: Coin
+    position: {x: 49.6, y: 28.8}
+  - name: Coin 1
+    position: {x: 38.4, y: 4.8}
+  - name: Coin 2
+    position: {x: 39.2, y: 4.8}
+  - name: Coin 3
+    position: {x: 40, y: 4.8}
+  - name: Coin 4
+    position: {x: 40.800003, y: 4.8}
+  - name: Coin 5
+    position: {x: 38.4, y: 5.6000004}
+  - name: Coin 6
+    position: {x: 39.2, y: 5.6000004}
+  - name: Coin 7
+    position: {x: 40, y: 5.6000004}
+  - name: Coin 8
+    position: {x: 40.800003, y: 5.6000004}
+  - name: Coin 9
+    position: {x: 41.6, y: 4.8}
+  - name: Coin 10
+    position: {x: 42.399998, y: 4.8}
+  - name: Coin 11
+    position: {x: 43.199997, y: 4.8}
+  - name: Coin 12
+    position: {x: 44, y: 4.8}
+  - name: Coin 13
+    position: {x: 41.6, y: 5.6000004}
+  - name: Coin 14
+    position: {x: 42.399998, y: 5.6000004}
+  - name: Coin 15
+    position: {x: 43.199997, y: 5.6000004}
+  - name: Coin 16
+    position: {x: 44, y: 5.6000004}
+  - name: Coin 17
+    position: {x: 44.8, y: 4}
+  - name: Coin 18
+    position: {x: 45.6, y: 4}
+  - name: Coin 19
+    position: {x: 46.399998, y: 4}
+  - name: Coin 20
+    position: {x: 47.2, y: 4}
+  - name: Coin 21
+    position: {x: 44.8, y: 4.8}
+  - name: Coin 22
+    position: {x: 47.2, y: 4.8}
+  - name: Coin 23
+    position: {x: 44.8, y: 5.6000004}
+  - name: Coin 24
+    position: {x: 47.2, y: 5.6000004}
+  - name: Coin 25
+    position: {x: 55.2, y: 10.4}
+  - name: Coin 26
+    position: {x: 56, y: 10.4}
+  - name: Coin 27
+    position: {x: 56.800003, y: 10.4}
+  - name: Coin 28
+    position: {x: 57.6, y: 10.4}
+  - name: Coin 29
+    position: {x: 58.399998, y: 10.4}
+  - name: Coin 30
+    position: {x: 59.199997, y: 10.4}
+  - name: Coin 77
+    position: {x: 51.2, y: 18.4}
+  - name: BrickItemCheese
+    position: {x: 42.399998, y: 12}
+  - name: BrickFrag
+    position: {x: 43.199997, y: 12}
+  - name: BrickFrag
+    position: {x: 44, y: 12}
+  - name: BrickFrag
+    position: {x: 44.8, y: 12}
+  - name: BrickOneCoin
+    position: {x: 76, y: 12}
+  - name: BrickBrickCoin
+    position: {x: 97.59999, y: 12}
+  - name: BrickFrag
+    position: {x: 6.4, y: 14.400001}
+  - name: BrickFrag
+    position: {x: 7.2000003, y: 14.400001}
+  - name: BrickFrag
+    position: {x: 8, y: 14.400001}
+  - name: BrickFrag
+    position: {x: 8.8, y: 14.400001}
+  - name: BrickBrickCoin 2
+    position: {x: 8.8, y: 15.200001}
+  - name: BrickItemGreenLolipop
+    position: {x: 9.599999, y: 14.400001}
+  - name: BrickFrag
+    position: {x: 10.4, y: 14.400001}
+  - name: BrickFrag
+    position: {x: 12.8, y: 13.6}
+  - name: BrickOneCoin
+    position: {x: 12.8, y: 14.400001}
+  - name: BrickFrag
+    position: {x: 13.6, y: 14.400001}
+  - name: BrickFrag
+    position: {x: 14.400001, y: 14.400001}
+  - name: BrickFrag
+    position: {x: 15.200001, y: 14.400001}
+  - name: BrickFrag
+    position: {x: 16, y: 14.400001}
+  - name: BrickOneCoin
+    position: {x: 20.800001, y: 14.400001}
+  - name: BrickFrag
+    position: {x: 24.8, y: 14.400001}
+  - name: BrickOneCoin
+    position: {x: 25.6, y: 14.400001}
+  - name: BrickOneCoin
+    position: {x: 26.4, y: 14.400001}
+  - name: BrickOneCoin
+    position: {x: 27.2, y: 14.400001}
+  - name: BrickAnimationVine
+    position: {x: 28, y: 14.400001}
+  - name: BrickFrag
+    position: {x: 40, y: 13.6}
+  - name: BrickFrag
+    position: {x: 40, y: 14.400001}
+  - name: BrickOneCoin
+    position: {x: 40.800003, y: 14.400001}
+  - name: BrickFrag
+    position: {x: 41.6, y: 14.400001}
+  - name: BrickFrag
+    position: {x: 42.399998, y: 14.400001}
+  - name: BrickFrag
+    position: {x: 60.8, y: 14.400001}
+  - name: BrickFrag
+    position: {x: 61.6, y: 14.400001}
+  - name: BrickFrag
+    position: {x: 62.399998, y: 14.400001}
+  - name: BrickFrag
+    position: {x: 63.2, y: 14.400001}
+  - name: BrickFrag
+    position: {x: 64, y: 14.400001}
+  - name: BrickOneCoin
+    position: {x: 64.8, y: 14.400001}
+  - name: BrickFrag
+    position: {x: 69.6, y: 14.400001}
+  - name: BrickFrag
+    position: {x: 70.39999, y: 14.400001}
+  - name: BrickFrag
+    position: {x: 71.19999, y: 14.400001}
+  - name: BrickOneCoin
+    position: {x: 80.799995, y: 13.6}
+  - name: BrickFrag
+    position: {x: 81.59999, y: 13.6}
+  - name: BrickFrag
+    position: {x: 82.399994, y: 13.6}
+  - name: BrickOneCoin
+    position: {x: 84.799995, y: 13.6}
+  - name: BrickFrag
+    position: {x: 97.59999, y: 15.200001}
+  - name: BrickFrag
+    position: {x: 100.799995, y: 15.200001}
+  - name: BrickFrag 31
+    position: {x: 44.8, y: 18.4}
+  - name: BrickOneCoin 11
+    position: {x: 45.6, y: 18.4}
+  - name: BrickFrag 32
+    position: {x: 46.399998, y: 18.4}
+  - name: BrickFrag
+    position: {x: 49.6, y: 16}
+  - name: BrickFrag
+    position: {x: 50.4, y: 16}
+  - name: BrickFrag
+    position: {x: 51.2, y: 16}
+  - name: BrickOneCoin
+    position: {x: 52, y: 16}
+  - name: BrickFrag
+    position: {x: 52.8, y: 16}
+  - name: BrickFrag
+    position: {x: 53.600002, y: 16}
+  - name: BrickFrag
+    position: {x: 80.799995, y: 16}
+  - name: BrickFrag
+    position: {x: 81.59999, y: 16}
+  - name: BrickFrag
+    position: {x: 82.399994, y: 16}
+  - name: BrickFrag
+    position: {x: 83.2, y: 16}
+  - name: BrickOneCoin
+    position: {x: 84, y: 16}
+  - name: BrickFrag
+    position: {x: 84.799995, y: 16}
+  - name: BrickFrag
+    position: {x: 87.19999, y: 18.4}
+  - name: BrickFrag
+    position: {x: 87.999985, y: 18.4}
+  - name: BrickFrag
+    position: {x: 88.79999, y: 18.4}
+  - name: BrickFrag
+    position: {x: 89.59999, y: 18.4}
+  - name: BrickFrag
+    position: {x: 90.399994, y: 18.4}
+  - name: BrickFrag
+    position: {x: 91.19999, y: 18.4}
+  - name: BrickFrag
+    position: {x: 91.99999, y: 18.4}
+  - name: BrickFrag
+    position: {x: 95.99999, y: 18.4}
+  - name: BrickFrag
+    position: {x: 99.2, y: 18.4}
+  - name: BrickOneCoin
+    position: {x: 102.4, y: 18.4}
+  - name: BrickItemHotChilli 1
+    position: {x: 56, y: 12.8}
+  Enemies:
+  - name: 01
+    position: {x: 62.519997, y: 11.83}
+  - name: 01
+    position: {x: 95.89, y: 11.899302}
+  - name: 01
+    position: {x: 78.369995, y: 11.749302}
+  - name: 01
+    position: {x: 40.559998, y: 11.829302}
+  - name: 04
+    position: {x: 20.71, y: 11.72}
+  - name: 04
+    position: {x: 21.849998, y: 11.68}
+  - name: 04
+    position: {x: 26.529999, y: 11.780001}
+  - name: 04
+    position: {x: 34.61, y: 12.280001}
+  - name: 04
+    position: {x: 85.28, y: 11.15}
+  - name: 04
+    position: {x: 84.369995, y: 16.79}
+  Clouds:
+  - name: CloudTransfer
+    position: {x: 37.600002, y: 24}
+  - name: CloudTransfer
+    position: {x: 33.6, y: 24}
+  - name: CloudTransfer
+    position: {x: 49.6, y: 26.4}
+  - name: CloudTransfer
+    position: {x: 32, y: 24}
+  - name: CloudTransfer
+    position: {x: 43.199997, y: 26.4}
+  - name: CloudTransfer
+    position: {x: 45.6, y: 26.4}
+  - name: CloudTransfer
+    position: {x: 29.599998, y: 24}
+  - name: CloudTransfer
+    position: {x: 44.8, y: 26.4}
+  - name: CloudTransfer
+    position: {x: 38.4, y: 24}
+  - name: CloudTransfer
+    position: {x: 48.8, y: 26.4}
+  - name: CloudTransfer
+    position: {x: 40, y: 26.4}
+  - name: CloudTransfer
+    position: {x: 46.399998, y: 26.4}
+  - name: CloudTransfer
+    position: {x: 30.4, y: 24}
+  - name: CloudTransfer
+    position: {x: 42.399998, y: 26.4}
+  - name: CloudTransfer
+    position: {x: 40.800003, y: 26.4}
+  - name: CloudTransfer
+    position: {x: 39.2, y: 26.4}
+  - name: CloudTransfer
+    position: {x: 32.8, y: 24}
+  - name: CloudTransfer
+    position: {x: 47.2, y: 26.4}
+  - name: CloudTransfer
+    position: {x: 28.8, y: 24}
+  - name: CloudTransfer
+    position: {x: 35.2, y: 24}
+  - name: CloudTransfer
+    position: {x: 41.6, y: 26.4}
+  - name: CloudTransfer
+    position: {x: 36, y: 24}
+  - name: CloudTransfer
+    position: {x: 48, y: 26.4}
+  - name: CloudTransfer
+    position: {x: 31.199999, y: 24}
+  - name: CloudTransfer
+    position: {x: 36.8, y: 24}
+  - name: CloudTransfer
+    position: {x: 34.4, y: 24}
+  - name: CloudTransfer
+    position: {x: 44, y: 26.4}
+  Platforms: []
+  EdgeList:
+  - position: {x: 28.8, y: 0}
+    points:
+    - {x: 0.4, y: 0.4}
+    - {x: 0.4, y: -0.4}
+    - {x: 2.8, y: -0.4}
+    - {x: 2.8, y: 2.8}
+    - {x: 0.4, y: 2.8}
+    - {x: 0.4, y: 0.4}
+  - position: {x: 32, y: 0}
+    points:
+    - {x: -0.4, y: 0.4}
+    - {x: -0.4, y: -0.4}
+    - {x: 2.8, y: -0.4}
+    - {x: 2.8, y: 2.8}
+    - {x: -0.4, y: 2.8}
+    - {x: -0.4, y: 0.4}
+  - position: {x: 35.2, y: 0}
+    points:
+    - {x: -0.4, y: 0.4}
+    - {x: -0.4, y: -0.4}
+    - {x: 2.8, y: -0.4}
+    - {x: 2.8, y: 2}
+    - {x: 1.2, y: 2}
+    - {x: 1.2, y: 2.8}
+    - {x: -0.4, y: 2.8}
+    - {x: -0.4, y: 0.4}
+  - position: {x: 38.4, y: 0}
+    points:
+    - {x: -0.4, y: 0.4}
+    - {x: -0.4, y: -0.4}
+    - {x: 2.8, y: -0.4}
+    - {x: 2.8, y: 2}
+    - {x: -0.4, y: 2}
+    - {x: -0.4, y: 0.4}
+  - position: {x: 41.6, y: 0}
+    points:
+    - {x: -0.4, y: 0.4}
+    - {x: -0.4, y: -0.4}
+    - {x: 2.8, y: -0.4}
+    - {x: 2.8, y: 2}
+    - {x: -0.4, y: 2}
+    - {x: -0.4, y: 0.4}
+  - position: {x: 44.8, y: 0}
+    points:
+    - {x: -0.4, y: 0.4}
+    - {x: -0.4, y: -0.4}
+    - {x: 2.8, y: -0.4}
+    - {x: 2.8, y: 2}
+    - {x: -0.4, y: 2}
+    - {x: -0.4, y: 0.4}
+  - position: {x: 48, y: 0}
+    points:
+    - {x: -0.4, y: 0.4}
+    - {x: -0.4, y: -0.4}
+    - {x: 2.8, y: -0.4}
+    - {x: 2.8, y: 2.8}
+    - {x: 1.2, y: 2.8}
+    - {x: 1.2, y: 2}
+    - {x: -0.4, y: 2}
+    - {x: -0.4, y: 0.4}
+  - position: {x: 51.2, y: 0}
+    points:
+    - {x: -0.4, y: 0.4}
+    - {x: -0.4, y: -0.4}
+    - {x: 2.8, y: -0.4}
+    - {x: 2.8, y: 2.8}
+    - {x: -0.4, y: 2.8}
+    - {x: -0.4, y: 0.4}
+  - position: {x: 0, y: 3.2}
+    points:
+    - {x: -0.4, y: 2.8}
+    - {x: -0.4, y: 2}
+    - {x: 2.8, y: 2}
+    - {x: 2.8, y: 2.8}
+    - {x: -0.4, y: 2.8}
+  - position: {x: 3.2, y: 3.2}
+    points:
+    - {x: -0.4, y: 2.8}
+    - {x: -0.4, y: 2}
+    - {x: 2.8, y: 2}
+    - {x: 2.8, y: 2.8}
+    - {x: -0.4, y: 2.8}
+  - position: {x: 6.4, y: 3.2}
+    points:
+    - {x: -0.4, y: 2.8}
+    - {x: -0.4, y: 2}
+    - {x: 2.8, y: 2}
+    - {x: 2.8, y: 2.8}
+    - {x: -0.4, y: 2.8}
+  - position: {x: 9.599999, y: 3.2}
+    points:
+    - {x: -0.4, y: 2.8}
+    - {x: -0.4, y: 2}
+    - {x: 2.8, y: 2}
+    - {x: 2.8, y: 2.8}
+    - {x: -0.4, y: 2.8}
+  - position: {x: 12.8, y: 3.2}
+    points:
+    - {x: -0.4, y: 2.8}
+    - {x: -0.4, y: 2}
+    - {x: 2.8, y: 2}
+    - {x: 2.8, y: 2.8}
+    - {x: -0.4, y: 2.8}
+  - position: {x: 16, y: 3.2}
+    points:
+    - {x: -0.4, y: 2.8}
+    - {x: -0.4, y: 2}
+    - {x: 1.2, y: 2}
+    - {x: 1.2, y: 0.4}
+    - {x: 2.8, y: 0.4}
+    - {x: 2.8, y: 2.8}
+    - {x: -0.4, y: 2.8}
+  - position: {x: 19.2, y: 3.2}
+    points:
+    - {x: -0.4, y: 1.2}
+    - {x: -0.4, y: 0.4}
+    - {x: 2.8, y: 0.4}
+    - {x: 2.8, y: 2.8}
+    - {x: -0.4, y: 2.8}
+    - {x: -0.4, y: 1.2}
+  - position: {x: 22.4, y: 3.2}
+    points:
+    - {x: -0.4, y: 1.2}
+    - {x: -0.4, y: 0.4}
+    - {x: 2.8, y: 0.4}
+    - {x: 2.8, y: 2.8}
+    - {x: -0.4, y: 2.8}
+    - {x: -0.4, y: 1.2}
+  - position: {x: 25.6, y: 3.2}
+    points:
+    - {x: -0.4, y: 1.2}
+    - {x: -0.4, y: 0.4}
+    - {x: 2, y: 0.4}
+    - {x: 2, y: 2.8}
+    - {x: -0.4, y: 2.8}
+    - {x: -0.4, y: 1.2}
+  - position: {x: 28.8, y: 3.2}
+    points:
+    - {x: 0.4, y: 0.4}
+    - {x: 0.4, y: -0.4}
+    - {x: 2.8, y: -0.4}
+    - {x: 2.8, y: 2.8}
+    - {x: 0.4, y: 2.8}
+    - {x: 0.4, y: 0.4}
+  - position: {x: 32, y: 3.2}
+    points:
+    - {x: -0.4, y: 0.4}
+    - {x: -0.4, y: -0.4}
+    - {x: 2.8, y: -0.4}
+    - {x: 2.8, y: 2.8}
+    - {x: -0.4, y: 2.8}
+    - {x: -0.4, y: 0.4}
+  - position: {x: 35.2, y: 3.2}
+    points:
+    - {x: -0.4, y: 0.4}
+    - {x: -0.4, y: -0.4}
+    - {x: 1.2, y: -0.4}
+    - {x: 1.2, y: 2.8}
+    - {x: -0.4, y: 2.8}
+    - {x: -0.4, y: 0.4}
+  - position: {x: 48, y: 3.2}
+    points:
+    - {x: -0.4, y: 1.2}
+    - {x: -0.4, y: 0.4}
+    - {x: 1.2, y: 0.4}
+    - {x: 1.2, y: -0.4}
+    - {x: 2.8, y: -0.4}
+    - {x: 2.8, y: 2.8}
+    - {x: -0.4, y: 2.8}
+    - {x: -0.4, y: 1.2}
+  - position: {x: 51.2, y: 3.2}
+    points:
+    - {x: -0.4, y: 0.4}
+    - {x: -0.4, y: -0.4}
+    - {x: 2.8, y: -0.4}
+    - {x: 2.8, y: 2.8}
+    - {x: -0.4, y: 2.8}
+    - {x: -0.4, y: 0.4}
+  - position: {x: 54.4, y: 3.2}
+    points:
+    - {x: -0.4, y: 2}
+    - {x: -0.4, y: 1.2}
+    - {x: 2.8, y: 1.2}
+    - {x: 2.8, y: 2.8}
+    - {x: -0.4, y: 2.8}
+    - {x: -0.4, y: 2}
+  - position: {x: 57.6, y: 3.2}
+    points:
+    - {x: -0.4, y: 2}
+    - {x: -0.4, y: 1.2}
+    - {x: 2, y: 1.2}
+    - {x: 2, y: 0.4}
+    - {x: 2.8, y: 0.4}
+    - {x: 2.8, y: 2.8}
+    - {x: -0.4, y: 2.8}
+    - {x: -0.4, y: 2}
+  - position: {x: 60.8, y: 3.2}
+    points:
+    - {x: -0.4, y: 1.2}
+    - {x: -0.4, y: 0.4}
+    - {x: 2.8, y: 0.4}
+    - {x: 2.8, y: 2.8}
+    - {x: -0.4, y: 2.8}
+    - {x: -0.4, y: 1.2}
+  - position: {x: 64, y: 3.2}
+    points:
+    - {x: -0.4, y: 1.2}
+    - {x: -0.4, y: 0.4}
+    - {x: 2.8, y: 0.4}
+    - {x: 2.8, y: 2.8}
+    - {x: -0.4, y: 2.8}
+    - {x: -0.4, y: 1.2}
+  - position: {x: 67.2, y: 3.2}
+    points:
+    - {x: -0.4, y: 1.2}
+    - {x: -0.4, y: 0.4}
+    - {x: 2.8, y: 0.4}
+    - {x: 2.8, y: 2.8}
+    - {x: -0.4, y: 2.8}
+    - {x: -0.4, y: 1.2}
+  - position: {x: 70.39999, y: 3.2}
+    points:
+    - {x: -0.4, y: 1.2}
+    - {x: -0.4, y: 0.4}
+    - {x: 2.8, y: 0.4}
+    - {x: 2.8, y: 2.8}
+    - {x: -0.4, y: 2.8}
+    - {x: -0.4, y: 1.2}
+  - position: {x: 73.6, y: 3.2}
+    points:
+    - {x: -0.4, y: 1.2}
+    - {x: -0.4, y: 0.4}
+    - {x: 2.8, y: 0.4}
+    - {x: 2.8, y: 2.8}
+    - {x: -0.4, y: 2.8}
+    - {x: -0.4, y: 1.2}
+  - position: {x: 76.8, y: 3.2}
+    points:
+    - {x: -0.4, y: 1.2}
+    - {x: -0.4, y: 0.4}
+    - {x: 2.8, y: 0.4}
+    - {x: 2.8, y: 2.8}
+    - {x: -0.4, y: 2.8}
+    - {x: -0.4, y: 1.2}
+  - position: {x: 79.99999, y: 3.2}
+    points:
+    - {x: -0.4, y: 1.2}
+    - {x: -0.4, y: 0.4}
+    - {x: 2.8, y: 0.4}
+    - {x: 2.8, y: 2.8}
+    - {x: -0.4, y: 2.8}
+    - {x: -0.4, y: 1.2}
+  - position: {x: 83.2, y: 3.2}
+    points:
+    - {x: -0.4, y: 1.2}
+    - {x: -0.4, y: 0.4}
+    - {x: 2.8, y: 0.4}
+    - {x: 2.8, y: 2.8}
+    - {x: -0.4, y: 2.8}
+    - {x: -0.4, y: 1.2}
+  - position: {x: 86.39999, y: 3.2}
+    points:
+    - {x: -0.4, y: 1.2}
+    - {x: -0.4, y: 0.4}
+    - {x: 2.8, y: 0.4}
+    - {x: 2.8, y: 2.8}
+    - {x: -0.4, y: 2.8}
+    - {x: -0.4, y: 1.2}
+  - position: {x: 89.59999, y: 3.2}
+    points:
+    - {x: -0.4, y: 1.2}
+    - {x: -0.4, y: 0.4}
+    - {x: 2.8, y: 0.4}
+    - {x: 2.8, y: 2.8}
+    - {x: -0.4, y: 2.8}
+    - {x: -0.4, y: 1.2}
+  - position: {x: 92.8, y: 3.2}
+    points:
+    - {x: -0.4, y: 1.2}
+    - {x: -0.4, y: 0.4}
+    - {x: 2.8, y: 0.4}
+    - {x: 2.8, y: 2.8}
+    - {x: -0.4, y: 2.8}
+    - {x: -0.4, y: 1.2}
+  - position: {x: 95.99999, y: 3.2}
+    points:
+    - {x: -0.4, y: 1.2}
+    - {x: -0.4, y: 0.4}
+    - {x: 2.8, y: 0.4}
+    - {x: 2.8, y: 2.8}
+    - {x: -0.4, y: 2.8}
+    - {x: -0.4, y: 1.2}
+  - position: {x: 99.2, y: 3.2}
+    points:
+    - {x: -0.4, y: 1.2}
+    - {x: -0.4, y: 0.4}
+    - {x: 2.8, y: 0.4}
+    - {x: 2.8, y: 2.8}
+    - {x: -0.4, y: 2.8}
+    - {x: -0.4, y: 1.2}
+  - position: {x: 102.4, y: 3.2}
+    points:
+    - {x: -0.4, y: 1.2}
+    - {x: -0.4, y: 0.4}
+    - {x: 0.4, y: 0.4}
+    - {x: 0.4, y: 2.8}
+    - {x: -0.4, y: 2.8}
+    - {x: -0.4, y: 1.2}
+  - position: {x: 105.6, y: 3.2}
+    points:
+    - {x: -0.4, y: 1.2}
+    - {x: -0.4, y: 0.4}
+    - {x: 2.8, y: 0.4}
+    - {x: 2.8, y: 2.8}
+    - {x: -0.4, y: 2.8}
+    - {x: -0.4, y: 1.2}
+  - position: {x: 108.8, y: 3.2}
+    points:
+    - {x: -0.4, y: 1.2}
+    - {x: -0.4, y: 0.4}
+    - {x: 2.8, y: 0.4}
+    - {x: 2.8, y: 2.8}
+    - {x: -0.4, y: 2.8}
+    - {x: -0.4, y: 1.2}
+  - position: {x: 112, y: 3.2}
+    points:
+    - {x: -0.4, y: 1.2}
+    - {x: -0.4, y: 0.4}
+    - {x: 2.8, y: 0.4}
+    - {x: 2.8, y: 2.8}
+    - {x: -0.4, y: 2.8}
+    - {x: -0.4, y: 1.2}
+  - position: {x: 115.2, y: 3.2}
+    points:
+    - {x: -0.4, y: 1.2}
+    - {x: -0.4, y: 0.4}
+    - {x: 2.8, y: 0.4}
+    - {x: 2.8, y: 2.8}
+    - {x: -0.4, y: 2.8}
+    - {x: -0.4, y: 1.2}
+  - position: {x: 118.4, y: 3.2}
+    points:
+    - {x: -0.4, y: 1.2}
+    - {x: -0.4, y: 0.4}
+    - {x: 2.8, y: 0.4}
+    - {x: 2.8, y: 2.8}
+    - {x: -0.4, y: 2.8}
+    - {x: -0.4, y: 1.2}
+  - position: {x: 121.6, y: 3.2}
+    points:
+    - {x: -0.4, y: 1.2}
+    - {x: -0.4, y: 0.4}
+    - {x: 2.8, y: 0.4}
+    - {x: 2.8, y: 2.8}
+    - {x: -0.4, y: 2.8}
+    - {x: -0.4, y: 1.2}
+  - position: {x: 124.8, y: 3.2}
+    points:
+    - {x: -0.4, y: 1.2}
+    - {x: -0.4, y: 0.4}
+    - {x: 2.8, y: 0.4}
+    - {x: 2.8, y: 2.8}
+    - {x: -0.4, y: 2.8}
+    - {x: -0.4, y: 1.2}
+  - position: {x: 128, y: 3.2}
+    points:
+    - {x: -0.4, y: 1.2}
+    - {x: -0.4, y: 0.4}
+    - {x: 2.8, y: 0.4}
+    - {x: 2.8, y: 2.8}
+    - {x: -0.4, y: 2.8}
+    - {x: -0.4, y: 1.2}
+  - position: {x: 131.2, y: 3.2}
+    points:
+    - {x: -0.4, y: 1.2}
+    - {x: -0.4, y: 0.4}
+    - {x: 2.8, y: 0.4}
+    - {x: 2.8, y: 2.8}
+    - {x: -0.4, y: 2.8}
+    - {x: -0.4, y: 1.2}
+  - position: {x: 134.4, y: 3.2}
+    points:
+    - {x: -0.4, y: 1.2}
+    - {x: -0.4, y: 0.4}
+    - {x: 2.8, y: 0.4}
+    - {x: 2.8, y: 2.8}
+    - {x: -0.4, y: 2.8}
+    - {x: -0.4, y: 1.2}
+  - position: {x: 0, y: 6.4}
+    points:
+    - {x: -0.4, y: 0.4}
+    - {x: -0.4, y: -0.4}
+    - {x: 2.8, y: -0.4}
+    - {x: 2.8, y: 2.8}
+    - {x: -0.4, y: 2.8}
+    - {x: -0.4, y: 0.4}
+  - position: {x: 3.2, y: 6.4}
+    points:
+    - {x: -0.4, y: 0.4}
+    - {x: -0.4, y: -0.4}
+    - {x: 2.8, y: -0.4}
+    - {x: 2.8, y: 2.8}
+    - {x: -0.4, y: 2.8}
+    - {x: -0.4, y: 0.4}
+  - position: {x: 6.4, y: 6.4}
+    points:
+    - {x: -0.4, y: 0.4}
+    - {x: -0.4, y: -0.4}
+    - {x: 2.8, y: -0.4}
+    - {x: 2.8, y: 2.8}
+    - {x: -0.4, y: 2.8}
+    - {x: -0.4, y: 0.4}
+  - position: {x: 9.599999, y: 6.4}
+    points:
+    - {x: -0.4, y: 0.4}
+    - {x: -0.4, y: -0.4}
+    - {x: 2.8, y: -0.4}
+    - {x: 2.8, y: 2.8}
+    - {x: -0.4, y: 2.8}
+    - {x: -0.4, y: 0.4}
+  - position: {x: 12.8, y: 6.4}
+    points:
+    - {x: -0.4, y: 0.4}
+    - {x: -0.4, y: -0.4}
+    - {x: 2.8, y: -0.4}
+    - {x: 2.8, y: 2.8}
+    - {x: -0.4, y: 2.8}
+    - {x: -0.4, y: 0.4}
+  - position: {x: 16, y: 6.4}
+    points:
+    - {x: -0.4, y: 0.4}
+    - {x: -0.4, y: -0.4}
+    - {x: 2.8, y: -0.4}
+    - {x: 2.8, y: 2.8}
+    - {x: -0.4, y: 2.8}
+    - {x: -0.4, y: 0.4}
+  - position: {x: 19.2, y: 6.4}
+    points:
+    - {x: -0.4, y: 0.4}
+    - {x: -0.4, y: -0.4}
+    - {x: 2.8, y: -0.4}
+    - {x: 2.8, y: 2.8}
+    - {x: -0.4, y: 2.8}
+    - {x: -0.4, y: 0.4}
+  - position: {x: 22.4, y: 6.4}
+    points:
+    - {x: -0.4, y: 0.4}
+    - {x: -0.4, y: -0.4}
+    - {x: 2.8, y: -0.4}
+    - {x: 2.8, y: 2.8}
+    - {x: -0.4, y: 2.8}
+    - {x: -0.4, y: 0.4}
+  - position: {x: 25.6, y: 6.4}
+    points:
+    - {x: -0.4, y: 0.4}
+    - {x: -0.4, y: -0.4}
+    - {x: 2, y: -0.4}
+    - {x: 2, y: 2.8}
+    - {x: -0.4, y: 2.8}
+    - {x: -0.4, y: 0.4}
+  - position: {x: 28.8, y: 6.4}
+    points:
+    - {x: 0.4, y: 0.4}
+    - {x: 0.4, y: -0.4}
+    - {x: 2.8, y: -0.4}
+    - {x: 2.8, y: 2.8}
+    - {x: 0.4, y: 2.8}
+    - {x: 0.4, y: 0.4}
+  - position: {x: 32, y: 6.4}
+    points:
+    - {x: -0.4, y: 0.4}
+    - {x: -0.4, y: -0.4}
+    - {x: 2.8, y: -0.4}
+    - {x: 2.8, y: 2.8}
+    - {x: -0.4, y: 2.8}
+    - {x: -0.4, y: 0.4}
+  - position: {x: 35.2, y: 6.4}
+    points:
+    - {x: -0.4, y: 0.4}
+    - {x: -0.4, y: -0.4}
+    - {x: 1.2, y: -0.4}
+    - {x: 1.2, y: 0.4}
+    - {x: 2.8, y: 0.4}
+    - {x: 2.8, y: 2.8}
+    - {x: -0.4, y: 2.8}
+    - {x: -0.4, y: 0.4}
+  - position: {x: 38.4, y: 6.4}
+    points:
+    - {x: -0.4, y: 0.4}
+    - {x: -0.4, y: -0.4}
+    - {x: 2.8, y: -0.4}
+    - {x: 2.8, y: 2.8}
+    - {x: -0.4, y: 2.8}
+    - {x: -0.4, y: 0.4}
+  - position: {x: 41.6, y: 6.4}
+    points:
+    - {x: -0.4, y: 0.4}
+    - {x: -0.4, y: -0.4}
+    - {x: 2.8, y: -0.4}
+    - {x: 2.8, y: 2.8}
+    - {x: -0.4, y: 2.8}
+    - {x: -0.4, y: 0.4}
+  - position: {x: 44.8, y: 6.4}
+    points:
+    - {x: -0.4, y: 0.4}
+    - {x: -0.4, y: -0.4}
+    - {x: 2.8, y: -0.4}
+    - {x: 2.8, y: 2.8}
+    - {x: -0.4, y: 2.8}
+    - {x: -0.4, y: 0.4}
+  - position: {x: 48, y: 6.4}
+    points:
+    - {x: -0.4, y: 0.4}
+    - {x: -0.4, y: -0.4}
+    - {x: 2.8, y: -0.4}
+    - {x: 2.8, y: 2.8}
+    - {x: -0.4, y: 2.8}
+    - {x: -0.4, y: 0.4}
+  - position: {x: 51.2, y: 6.4}
+    points:
+    - {x: -0.4, y: 0.4}
+    - {x: -0.4, y: -0.4}
+    - {x: 2.8, y: -0.4}
+    - {x: 2.8, y: 2.8}
+    - {x: -0.4, y: 2.8}
+    - {x: -0.4, y: 0.4}
+  - position: {x: 54.4, y: 6.4}
+    points:
+    - {x: -0.4, y: 0.4}
+    - {x: -0.4, y: -0.4}
+    - {x: 2.8, y: -0.4}
+    - {x: 2.8, y: 2.8}
+    - {x: -0.4, y: 2.8}
+    - {x: -0.4, y: 0.4}
+  - position: {x: 57.6, y: 6.4}
+    points:
+    - {x: -0.4, y: 0.4}
+    - {x: -0.4, y: -0.4}
+    - {x: 2.8, y: -0.4}
+    - {x: 2.8, y: 2.8}
+    - {x: -0.4, y: 2.8}
+    - {x: -0.4, y: 0.4}
+  - position: {x: 60.8, y: 6.4}
+    points:
+    - {x: -0.4, y: 0.4}
+    - {x: -0.4, y: -0.4}
+    - {x: 2.8, y: -0.4}
+    - {x: 2.8, y: 2.8}
+    - {x: -0.4, y: 2.8}
+    - {x: -0.4, y: 0.4}
+  - position: {x: 64, y: 6.4}
+    points:
+    - {x: -0.4, y: 0.4}
+    - {x: -0.4, y: -0.4}
+    - {x: 2.8, y: -0.4}
+    - {x: 2.8, y: 2.8}
+    - {x: -0.4, y: 2.8}
+    - {x: -0.4, y: 0.4}
+  - position: {x: 67.2, y: 6.4}
+    points:
+    - {x: -0.4, y: 0.4}
+    - {x: -0.4, y: -0.4}
+    - {x: 2.8, y: -0.4}
+    - {x: 2.8, y: 2.8}
+    - {x: -0.4, y: 2.8}
+    - {x: -0.4, y: 0.4}
+  - position: {x: 70.39999, y: 6.4}
+    points:
+    - {x: -0.4, y: 0.4}
+    - {x: -0.4, y: -0.4}
+    - {x: 2.8, y: -0.4}
+    - {x: 2.8, y: 2.8}
+    - {x: -0.4, y: 2.8}
+    - {x: -0.4, y: 0.4}
+  - position: {x: 73.6, y: 6.4}
+    points:
+    - {x: -0.4, y: 0.4}
+    - {x: -0.4, y: -0.4}
+    - {x: 2.8, y: -0.4}
+    - {x: 2.8, y: 2.8}
+    - {x: -0.4, y: 2.8}
+    - {x: -0.4, y: 0.4}
+  - position: {x: 76.8, y: 6.4}
+    points:
+    - {x: -0.4, y: 0.4}
+    - {x: -0.4, y: -0.4}
+    - {x: 2.8, y: -0.4}
+    - {x: 2.8, y: 2.8}
+    - {x: -0.4, y: 2.8}
+    - {x: -0.4, y: 0.4}
+  - position: {x: 79.99999, y: 6.4}
+    points:
+    - {x: -0.4, y: 0.4}
+    - {x: -0.4, y: -0.4}
+    - {x: 2.8, y: -0.4}
+    - {x: 2.8, y: 2.8}
+    - {x: -0.4, y: 2.8}
+    - {x: -0.4, y: 0.4}
+  - position: {x: 83.2, y: 6.4}
+    points:
+    - {x: -0.4, y: 0.4}
+    - {x: -0.4, y: -0.4}
+    - {x: 2.8, y: -0.4}
+    - {x: 2.8, y: 2.8}
+    - {x: -0.4, y: 2.8}
+    - {x: -0.4, y: 0.4}
+  - position: {x: 86.39999, y: 6.4}
+    points:
+    - {x: -0.4, y: 0.4}
+    - {x: -0.4, y: -0.4}
+    - {x: 2.8, y: -0.4}
+    - {x: 2.8, y: 2.8}
+    - {x: -0.4, y: 2.8}
+    - {x: -0.4, y: 0.4}
+  - position: {x: 89.59999, y: 6.4}
+    points:
+    - {x: -0.4, y: 0.4}
+    - {x: -0.4, y: -0.4}
+    - {x: 2.8, y: -0.4}
+    - {x: 2.8, y: 2.8}
+    - {x: -0.4, y: 2.8}
+    - {x: -0.4, y: 0.4}
+  - position: {x: 92.8, y: 6.4}
+    points:
+    - {x: -0.4, y: 0.4}
+    - {x: -0.4, y: -0.4}
+    - {x: 2.8, y: -0.4}
+    - {x: 2.8, y: 2.8}
+    - {x: -0.4, y: 2.8}
+    - {x: -0.4, y: 0.4}
+  - position: {x: 95.99999, y: 6.4}
+    points:
+    - {x: -0.4, y: 0.4}
+    - {x: -0.4, y: -0.4}
+    - {x: 2.8, y: -0.4}
+    - {x: 2.8, y: 2.8}
+    - {x: -0.4, y: 2.8}
+    - {x: -0.4, y: 0.4}
+  - position: {x: 99.2, y: 6.4}
+    points:
+    - {x: -0.4, y: 0.4}
+    - {x: -0.4, y: -0.4}
+    - {x: 2.8, y: -0.4}
+    - {x: 2.8, y: 2.8}
+    - {x: -0.4, y: 2.8}
+    - {x: -0.4, y: 0.4}
+  - position: {x: 102.4, y: 6.4}
+    points:
+    - {x: -0.4, y: 0.4}
+    - {x: -0.4, y: -0.4}
+    - {x: 0.4, y: -0.4}
+    - {x: 0.4, y: 2.8}
+    - {x: -0.4, y: 2.8}
+    - {x: -0.4, y: 0.4}
+  - position: {x: 105.6, y: 6.4}
+    points:
+    - {x: -0.4, y: 0.4}
+    - {x: -0.4, y: -0.4}
+    - {x: 2.8, y: -0.4}
+    - {x: 2.8, y: 2.8}
+    - {x: -0.4, y: 2.8}
+    - {x: -0.4, y: 0.4}
+  - position: {x: 108.8, y: 6.4}
+    points:
+    - {x: -0.4, y: 0.4}
+    - {x: -0.4, y: -0.4}
+    - {x: 2.8, y: -0.4}
+    - {x: 2.8, y: 2.8}
+    - {x: -0.4, y: 2.8}
+    - {x: -0.4, y: 0.4}
+  - position: {x: 112, y: 6.4}
+    points:
+    - {x: -0.4, y: 0.4}
+    - {x: -0.4, y: -0.4}
+    - {x: 2.8, y: -0.4}
+    - {x: 2.8, y: 2.8}
+    - {x: -0.4, y: 2.8}
+    - {x: -0.4, y: 0.4}
+  - position: {x: 115.2, y: 6.4}
+    points:
+    - {x: -0.4, y: 0.4}
+    - {x: -0.4, y: -0.4}
+    - {x: 2.8, y: -0.4}
+    - {x: 2.8, y: 2.8}
+    - {x: -0.4, y: 2.8}
+    - {x: -0.4, y: 0.4}
+  - position: {x: 118.4, y: 6.4}
+    points:
+    - {x: -0.4, y: 0.4}
+    - {x: -0.4, y: -0.4}
+    - {x: 2.8, y: -0.4}
+    - {x: 2.8, y: 2.8}
+    - {x: -0.4, y: 2.8}
+    - {x: -0.4, y: 0.4}
+  - position: {x: 121.6, y: 6.4}
+    points:
+    - {x: -0.4, y: 0.4}
+    - {x: -0.4, y: -0.4}
+    - {x: 2.8, y: -0.4}
+    - {x: 2.8, y: 2.8}
+    - {x: -0.4, y: 2.8}
+    - {x: -0.4, y: 0.4}
+  - position: {x: 124.8, y: 6.4}
+    points:
+    - {x: -0.4, y: 0.4}
+    - {x: -0.4, y: -0.4}
+    - {x: 2.8, y: -0.4}
+    - {x: 2.8, y: 2.8}
+    - {x: -0.4, y: 2.8}
+    - {x: -0.4, y: 0.4}
+  - position: {x: 128, y: 6.4}
+    points:
+    - {x: -0.4, y: 0.4}
+    - {x: -0.4, y: -0.4}
+    - {x: 2.8, y: -0.4}
+    - {x: 2.8, y: 2.8}
+    - {x: -0.4, y: 2.8}
+    - {x: -0.4, y: 0.4}
+  - position: {x: 131.2, y: 6.4}
+    points:
+    - {x: -0.4, y: 0.4}
+    - {x: -0.4, y: -0.4}
+    - {x: 2.8, y: -0.4}
+    - {x: 2.8, y: 2.8}
+    - {x: -0.4, y: 2.8}
+    - {x: -0.4, y: 0.4}
+  - position: {x: 134.4, y: 6.4}
+    points:
+    - {x: -0.4, y: 0.4}
+    - {x: -0.4, y: -0.4}
+    - {x: 2.8, y: -0.4}
+    - {x: 2.8, y: 2.8}
+    - {x: -0.4, y: 2.8}
+    - {x: -0.4, y: 0.4}
+  - position: {x: 0, y: 9.599999}
+    points:
+    - {x: -0.4, y: 0.4}
+    - {x: -0.4, y: -0.4}
+    - {x: 2.8, y: -0.4}
+    - {x: 2.8, y: 2}
+    - {x: -0.4, y: 2}
+    - {x: -0.4, y: 0.4}
+  - position: {x: 3.2, y: 9.599999}
+    points:
+    - {x: -0.4, y: 0.4}
+    - {x: -0.4, y: -0.4}
+    - {x: 2.8, y: -0.4}
+    - {x: 2.8, y: 2}
+    - {x: -0.4, y: 2}
+    - {x: -0.4, y: 0.4}
+  - position: {x: 6.4, y: 9.599999}
+    points:
+    - {x: -0.4, y: 0.4}
+    - {x: -0.4, y: -0.4}
+    - {x: 2.8, y: -0.4}
+    - {x: 2.8, y: 2}
+    - {x: -0.4, y: 2}
+    - {x: -0.4, y: 0.4}
+  - position: {x: 9.599999, y: 9.599999}
+    points:
+    - {x: -0.4, y: 0.4}
+    - {x: -0.4, y: -0.4}
+    - {x: 2.8, y: -0.4}
+    - {x: 2.8, y: 2}
+    - {x: -0.4, y: 2}
+    - {x: -0.4, y: 0.4}
+  - position: {x: 12.8, y: 9.599999}
+    points:
+    - {x: -0.4, y: 0.4}
+    - {x: -0.4, y: -0.4}
+    - {x: 2.8, y: -0.4}
+    - {x: 2.8, y: 2}
+    - {x: -0.4, y: 2}
+    - {x: -0.4, y: 0.4}
+  - position: {x: 16, y: 9.599999}
+    points:
+    - {x: -0.4, y: 0.4}
+    - {x: -0.4, y: -0.4}
+    - {x: 2.8, y: -0.4}
+    - {x: 2.8, y: 2}
+    - {x: -0.4, y: 2}
+    - {x: -0.4, y: 0.4}
+  - position: {x: 19.2, y: 9.599999}
+    points:
+    - {x: -0.4, y: 0.4}
+    - {x: -0.4, y: -0.4}
+    - {x: 2.8, y: -0.4}
+    - {x: 2.8, y: 2}
+    - {x: -0.4, y: 2}
+    - {x: -0.4, y: 0.4}
+  - position: {x: 22.4, y: 9.599999}
+    points:
+    - {x: -0.4, y: 0.4}
+    - {x: -0.4, y: -0.4}
+    - {x: 2.8, y: -0.4}
+    - {x: 2.8, y: 2}
+    - {x: -0.4, y: 2}
+    - {x: -0.4, y: 0.4}
+  - position: {x: 25.6, y: 9.599999}
+    points:
+    - {x: -0.4, y: 0.4}
+    - {x: -0.4, y: -0.4}
+    - {x: 2, y: -0.4}
+    - {x: 2, y: 2}
+    - {x: -0.4, y: 2}
+    - {x: -0.4, y: 0.4}
+  - position: {x: 28.8, y: 9.599999}
+    points:
+    - {x: 0.4, y: 0.4}
+    - {x: 0.4, y: -0.4}
+    - {x: 2.8, y: -0.4}
+    - {x: 2.8, y: 2}
+    - {x: 0.4, y: 2}
+    - {x: 0.4, y: 0.4}
+  - position: {x: 32, y: 9.599999}
+    points:
+    - {x: -0.4, y: 0.4}
+    - {x: -0.4, y: -0.4}
+    - {x: 2.8, y: -0.4}
+    - {x: 2.8, y: 2}
+    - {x: -0.4, y: 2}
+    - {x: -0.4, y: 0.4}
+  - position: {x: 35.2, y: 9.599999}
+    points:
+    - {x: -0.4, y: 0.4}
+    - {x: -0.4, y: -0.4}
+    - {x: 2.8, y: -0.4}
+    - {x: 2.8, y: 2}
+    - {x: -0.4, y: 2}
+    - {x: -0.4, y: 0.4}
+  - position: {x: 38.4, y: 9.599999}
+    points:
+    - {x: -0.4, y: 0.4}
+    - {x: -0.4, y: -0.4}
+    - {x: 2.8, y: -0.4}
+    - {x: 2.8, y: 2}
+    - {x: -0.4, y: 2}
+    - {x: -0.4, y: 0.4}
+  - position: {x: 41.6, y: 9.599999}
+    points:
+    - {x: -0.4, y: 0.4}
+    - {x: -0.4, y: -0.4}
+    - {x: 2.8, y: -0.4}
+    - {x: 2.8, y: 2}
+    - {x: -0.4, y: 2}
+    - {x: -0.4, y: 0.4}
+  - position: {x: 44.8, y: 9.599999}
+    points:
+    - {x: -0.4, y: 0.4}
+    - {x: -0.4, y: -0.4}
+    - {x: 2.8, y: -0.4}
+    - {x: 2.8, y: 2.8}
+    - {x: 0.4, y: 2.8}
+    - {x: 0.4, y: 2}
+    - {x: -0.4, y: 2}
+    - {x: -0.4, y: 0.4}
+  - position: {x: 48, y: 9.599999}
+    points:
+    - {x: -0.4, y: 1.2}
+    - {x: -0.4, y: 0.4}
+    - {x: 0.4, y: 0.4}
+    - {x: -0.35, y: 0.4}
+    - {x: -0.35, y: -0.4}
+    - {x: 2.8, y: -0.4}
+    - {x: 2.8, y: 2.24}
+    - {x: 1.71, y: 2.8}
+    - {x: -0.4, y: 2.8}
+    - {x: -0.4, y: 1.2}
+  - position: {x: 51.2, y: 9.599999}
+    points:
+    - {x: -0.4, y: 0.4}
+    - {x: -0.4, y: -0.4}
+    - {x: 2.8, y: -0.4}
+    - {x: 2.8, y: 0.64}
+    - {x: -0.4, y: 2.24}
+    - {x: -0.4, y: 0.4}
+  - position: {x: 51.2, y: 9.599999}
+    points:
+    - {x: -0.4, y: 2}
+    - {x: -0.4, y: 2}
+  - position: {x: 51.2, y: 9.599999}
+    points:
+    - {x: 1.2, y: 1.2}
+    - {x: 1.2, y: 1.2}
+  - position: {x: 54.4, y: 9.599999}
+    points:
+    - {x: -0.4, y: 0.4}
+    - {x: -0.4, y: -0.4}
+    - {x: 2.8, y: -0.4}
+    - {x: 2.8, y: 0.4}
+    - {x: -0.4, y: 0.4}
+    - {x: -0.4, y: 0.4}
+    - {x: 0.11, y: 0.4}
+    - {x: -0.4, y: 0.64}
+    - {x: -0.4, y: 0.4}
+  - position: {x: 57.6, y: 9.599999}
+    points:
+    - {x: -0.4, y: 0.4}
+    - {x: -0.4, y: -0.4}
+    - {x: 2.8, y: -0.4}
+    - {x: 2.8, y: 2}
+    - {x: 2, y: 2}
+    - {x: 2, y: 0.4}
+    - {x: -0.4, y: 0.4}
+  - position: {x: 60.8, y: 9.599999}
+    points:
+    - {x: -0.4, y: 0.4}
+    - {x: -0.4, y: -0.4}
+    - {x: 2.8, y: -0.4}
+    - {x: 2.8, y: 2}
+    - {x: -0.4, y: 2}
+    - {x: -0.4, y: 0.4}
+  - position: {x: 64, y: 9.599999}
+    points:
+    - {x: -0.4, y: 0.4}
+    - {x: -0.4, y: -0.4}
+    - {x: 2.8, y: -0.4}
+    - {x: 2.8, y: 2}
+    - {x: -0.4, y: 2}
+    - {x: -0.4, y: 0.4}
+  - position: {x: 67.2, y: 9.599999}
+    points:
+    - {x: -0.4, y: 0.4}
+    - {x: -0.4, y: -0.4}
+    - {x: 2.8, y: -0.4}
+    - {x: 2.8, y: 2}
+    - {x: 2, y: 2}
+    - {x: 2, y: 2.8}
+    - {x: 0.4, y: 2.8}
+    - {x: 0.4, y: 2}
+    - {x: -0.4, y: 2}
+    - {x: -0.4, y: 0.4}
+  - position: {x: 70.39999, y: 9.599999}
+    points:
+    - {x: -0.4, y: 0.4}
+    - {x: -0.4, y: -0.4}
+    - {x: 2.8, y: -0.4}
+    - {x: 2.8, y: 2}
+    - {x: -0.4, y: 2}
+    - {x: -0.4, y: 0.4}
+  - position: {x: 73.6, y: 9.599999}
+    points:
+    - {x: -0.4, y: 0.4}
+    - {x: -0.4, y: -0.4}
+    - {x: 2.8, y: -0.4}
+    - {x: 2.8, y: 2}
+    - {x: 2, y: 2}
+    - {x: 2, y: 2.8}
+    - {x: 0.4, y: 2.8}
+    - {x: 0.4, y: 2}
+    - {x: -0.4, y: 2}
+    - {x: -0.4, y: 0.4}
+  - position: {x: 76.8, y: 9.599999}
+    points:
+    - {x: -0.4, y: 0.4}
+    - {x: -0.4, y: -0.4}
+    - {x: 2.8, y: -0.4}
+    - {x: 2.8, y: 2}
+    - {x: -0.4, y: 2}
+    - {x: -0.4, y: 0.4}
+  - position: {x: 79.99999, y: 9.599999}
+    points:
+    - {x: -0.4, y: 0.4}
+    - {x: -0.4, y: -0.4}
+    - {x: 2.8, y: -0.4}
+    - {x: 2.8, y: 1.2}
+    - {x: -0.4, y: 1.2}
+    - {x: -0.4, y: 0.4}
+  - position: {x: 83.2, y: 9.599999}
+    points:
+    - {x: -0.4, y: 0.4}
+    - {x: -0.4, y: -0.4}
+    - {x: 2.8, y: -0.4}
+    - {x: 2.8, y: 1.2}
+    - {x: -0.4, y: 1.2}
+    - {x: -0.4, y: 0.4}
+  - position: {x: 86.39999, y: 9.599999}
+    points:
+    - {x: -0.4, y: 0.4}
+    - {x: -0.4, y: -0.4}
+    - {x: 2.8, y: -0.4}
+    - {x: 2.8, y: 2.8}
+    - {x: 2, y: 2.8}
+    - {x: 2, y: 2}
+    - {x: -0.4, y: 2}
+    - {x: -0.4, y: 0.4}
+  - position: {x: 89.59999, y: 9.599999}
+    points:
+    - {x: -0.4, y: 0.4}
+    - {x: -0.4, y: -0.4}
+    - {x: 2.8, y: -0.4}
+    - {x: 2.8, y: 2.8}
+    - {x: -0.4, y: 2.8}
+    - {x: -0.4, y: 0.4}
+  - position: {x: 92.8, y: 9.599999}
+    points:
+    - {x: -0.4, y: 0.4}
+    - {x: -0.4, y: -0.4}
+    - {x: 2.8, y: -0.4}
+    - {x: 2.8, y: 2}
+    - {x: 2, y: 2}
+    - {x: 2, y: 2.8}
+    - {x: -0.4, y: 2.8}
+    - {x: -0.4, y: 0.4}
+  - position: {x: 95.99999, y: 9.599999}
+    points:
+    - {x: -0.4, y: 0.4}
+    - {x: -0.4, y: -0.4}
+    - {x: 2.8, y: -0.4}
+    - {x: 2.8, y: 2}
+    - {x: -0.4, y: 2}
+    - {x: -0.4, y: 0.4}
+  - position: {x: 99.2, y: 9.599999}
+    points:
+    - {x: -0.4, y: 0.4}
+    - {x: -0.4, y: -0.4}
+    - {x: 2.8, y: -0.4}
+    - {x: 2.8, y: 2}
+    - {x: -0.4, y: 2}
+    - {x: -0.4, y: 0.4}
+  - position: {x: 102.4, y: 9.599999}
+    points:
+    - {x: -0.4, y: 0.4}
+    - {x: -0.4, y: -0.4}
+    - {x: 0.4, y: -0.4}
+    - {x: 0.4, y: 2}
+    - {x: -0.4, y: 2}
+    - {x: -0.4, y: 0.4}
+  - position: {x: 105.6, y: 9.599999}
+    points:
+    - {x: -0.4, y: 0.4}
+    - {x: -0.4, y: -0.4}
+    - {x: 2.8, y: -0.4}
+    - {x: 2.8, y: 2.8}
+    - {x: 2, y: 2.8}
+    - {x: 2, y: 2}
+    - {x: -0.4, y: 2}
+    - {x: -0.4, y: 0.4}
+  - position: {x: 108.8, y: 9.599999}
+    points:
+    - {x: -0.4, y: 0.4}
+    - {x: -0.4, y: -0.4}
+    - {x: 2.8, y: -0.4}
+    - {x: 2.8, y: 2.8}
+    - {x: -0.4, y: 2.8}
+    - {x: -0.4, y: 0.4}
+  - position: {x: 112, y: 9.599999}
+    points:
+    - {x: -0.4, y: 0.4}
+    - {x: -0.4, y: -0.4}
+    - {x: 2.8, y: -0.4}
+    - {x: 2.8, y: 2.8}
+    - {x: -0.4, y: 2.8}
+    - {x: -0.4, y: 0.4}
+  - position: {x: 115.2, y: 9.599999}
+    points:
+    - {x: -0.4, y: 0.4}
+    - {x: -0.4, y: -0.4}
+    - {x: 2.8, y: -0.4}
+    - {x: 2.8, y: 2}
+    - {x: -0.4, y: 2}
+    - {x: -0.4, y: 0.4}
+  - position: {x: 118.4, y: 9.599999}
+    points:
+    - {x: -0.4, y: 0.4}
+    - {x: -0.4, y: -0.4}
+    - {x: 2.8, y: -0.4}
+    - {x: 2.8, y: 2}
+    - {x: -0.4, y: 2}
+    - {x: -0.4, y: 0.4}
+  - position: {x: 121.6, y: 9.599999}
+    points:
+    - {x: -0.4, y: 0.4}
+    - {x: -0.4, y: -0.4}
+    - {x: 2.8, y: -0.4}
+    - {x: 2.8, y: 2}
+    - {x: 1.2, y: 2}
+    - {x: 1.2, y: 2.8}
+    - {x: 0.4, y: 2.8}
+    - {x: 0.4, y: 2}
+    - {x: -0.4, y: 2}
+    - {x: -0.4, y: 0.4}
+  - position: {x: 124.8, y: 9.599999}
+    points:
+    - {x: -0.4, y: 0.4}
+    - {x: -0.4, y: -0.4}
+    - {x: 2.8, y: -0.4}
+    - {x: 2.8, y: 2}
+    - {x: -0.4, y: 2}
+    - {x: -0.4, y: 0.4}
+  - position: {x: 128, y: 9.599999}
+    points:
+    - {x: -0.4, y: 0.4}
+    - {x: -0.4, y: -0.4}
+    - {x: 2.8, y: -0.4}
+    - {x: 2.8, y: 2}
+    - {x: -0.4, y: 2}
+    - {x: -0.4, y: 0.4}
+  - position: {x: 131.2, y: 9.599999}
+    points:
+    - {x: -0.4, y: 0.4}
+    - {x: -0.4, y: -0.4}
+    - {x: 2.8, y: -0.4}
+    - {x: 2.8, y: 2}
+    - {x: -0.4, y: 2}
+    - {x: -0.4, y: 0.4}
+  - position: {x: 134.4, y: 9.599999}
+    points:
+    - {x: -0.4, y: 0.4}
+    - {x: -0.4, y: -0.4}
+    - {x: 2.8, y: -0.4}
+    - {x: 2.8, y: 2}
+    - {x: -0.4, y: 2}
+    - {x: -0.4, y: 0.4}
+  - position: {x: 67.2, y: 12.8}
+    points:
+    - {x: 0.4, y: 0.4}
+    - {x: 0.4, y: -0.4}
+    - {x: 2, y: -0.4}
+    - {x: 2, y: 1.2}
+    - {x: 0.4, y: 1.2}
+    - {x: 0.4, y: 0.4}
+  - position: {x: 73.6, y: 12.8}
+    points:
+    - {x: 0.4, y: 0.4}
+    - {x: 0.4, y: -0.4}
+    - {x: 2, y: -0.4}
+    - {x: 2, y: 0.4}
+    - {x: 0.4, y: 0.4}
+  - position: {x: 89.59999, y: 12.8}
+    points:
+    - {x: -0.4, y: 0.4}
+    - {x: -0.4, y: -0.4}
+    - {x: 2.8, y: -0.4}
+    - {x: 2.8, y: 1.2}
+    - {x: 0.4, y: 1.2}
+    - {x: 0.4, y: 0.4}
+    - {x: -0.4, y: 0.4}
+  - position: {x: 92.8, y: 12.8}
+    points:
+    - {x: -0.4, y: 0.4}
+    - {x: -0.4, y: -0.4}
+    - {x: 1.2, y: -0.4}
+    - {x: 1.2, y: 0.4}
+    - {x: 0.4, y: 0.4}
+    - {x: 0.4, y: 1.2}
+    - {x: -0.4, y: 1.2}
+    - {x: -0.4, y: 0.4}
+  - position: {x: 108.8, y: 12.8}
+    points:
+    - {x: -0.4, y: 0.4}
+    - {x: -0.4, y: -0.4}
+    - {x: 2.8, y: -0.4}
+    - {x: 2.8, y: 2.8}
+    - {x: 2, y: 2.8}
+    - {x: 2, y: 2}
+    - {x: 1.2, y: 2}
+    - {x: 1.2, y: 1.2}
+    - {x: 0.4, y: 1.2}
+    - {x: 0.4, y: 0.4}
+    - {x: -0.4, y: 0.4}
+  - position: {x: 112, y: 12.8}
+    points:
+    - {x: -0.4, y: 0.4}
+    - {x: -0.4, y: -0.4}
+    - {x: 2.8, y: -0.4}
+    - {x: 2.8, y: 2.8}
+    - {x: -0.4, y: 2.8}
+    - {x: -0.4, y: 0.4}
+  - position: {x: 112, y: 16}
+    points:
+    - {x: -0.4, y: 0.4}
+    - {x: -0.4, y: -0.4}
+    - {x: 2.8, y: -0.4}
+    - {x: 2.8, y: 2}
+    - {x: 1.2, y: 2}
+    - {x: 1.2, y: 1.2}
+    - {x: 0.4, y: 1.2}
+    - {x: 0.4, y: 0.4}
+    - {x: -0.4, y: 0.4}
+  - position: {x: 44.8, y: 12.8}
+    points:
+    - {x: 0.4, y: 0.4}
+    - {x: 0.4, y: -0.4}
+    - {x: 2, y: -0.4}
+    - {x: 2, y: 0.4}
+    - {x: 0.4, y: 0.4}
+  - position: {x: 44.8, y: 12.8}
+    points:
+    - {x: 2, y: 0.26}
+    - {x: 2, y: -0.4}
+    - {x: 2.8, y: -0.4}
+    - {x: 2.8, y: 0.26}
+    - {x: 2, y: 0.26}
+  - position: {x: 48, y: 12.8}
+    points:
+    - {x: -0.4, y: 0.25}
+    - {x: -0.4, y: -0.4}
+    - {x: 1.2, y: -0.4}
+    - {x: 1.2, y: -0.4}
+    - {x: 1.71, y: -0.4}
+    - {x: 0.4, y: 0.25}
+    - {x: -0.4, y: 0.25}

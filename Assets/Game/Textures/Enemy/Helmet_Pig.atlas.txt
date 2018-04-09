@@ -1,0 +1,62 @@
+
+Helmet_Pig.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: false
+  xy: 2, 8
+  size: 74, 52
+  orig: 74, 52
+  offset: 0, 0
+  index: -1
+Hat
+  rotate: false
+  xy: 2, 62
+  size: 85, 59
+  orig: 85, 59
+  offset: 0, 0
+  index: -1
+L_Leg_01
+  rotate: false
+  xy: 104, 48
+  size: 17, 19
+  orig: 17, 19
+  offset: 0, 0
+  index: -1
+L_Leg_11
+  rotate: false
+  xy: 89, 69
+  size: 27, 26
+  orig: 27, 26
+  offset: 0, 0
+  index: -1
+Mouth
+  rotate: false
+  xy: 89, 97
+  size: 30, 24
+  orig: 30, 24
+  offset: 0, 0
+  index: -1
+R_Leg_01
+  rotate: false
+  xy: 104, 28
+  size: 17, 18
+  orig: 17, 18
+  offset: 0, 0
+  index: -1
+R_Leg_11
+  rotate: false
+  xy: 78, 35
+  size: 24, 25
+  orig: 24, 25
+  offset: 0, 0
+  index: -1
+Tail
+  rotate: false
+  xy: 78, 15
+  size: 24, 18
+  orig: 24, 18
+  offset: 0, 0
+  index: -1

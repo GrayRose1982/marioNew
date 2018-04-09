@@ -1,0 +1,55 @@
+
+Chicken.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 14
+  rotate: false
+  xy: 2, 132
+  size: 83, 58
+  orig: 83, 58
+  offset: 0, 0
+  index: -1
+Layer 15
+  rotate: false
+  xy: 147, 163
+  size: 43, 27
+  orig: 43, 27
+  offset: 0, 0
+  index: -1
+Layer 16
+  rotate: false
+  xy: 2, 76
+  size: 80, 54
+  orig: 80, 54
+  offset: 0, 0
+  index: -1
+Layer 17
+  rotate: false
+  xy: 2, 38
+  size: 41, 36
+  orig: 41, 36
+  offset: 0, 0
+  index: -1
+Layer 18
+  rotate: false
+  xy: 2, 14
+  size: 35, 22
+  orig: 35, 22
+  offset: 0, 0
+  index: -1
+Layer 18 copy
+  rotate: false
+  xy: 45, 52
+  size: 35, 22
+  orig: 35, 22
+  offset: 0, 0
+  index: -1
+Layer 19
+  rotate: false
+  xy: 87, 136
+  size: 58, 54
+  orig: 58, 54
+  offset: 0, 0
+  index: -1

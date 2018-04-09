@@ -1,0 +1,62 @@
+
+Helmet_Chicken.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 14
+  rotate: false
+  xy: 2, 123
+  size: 83, 58
+  orig: 83, 58
+  offset: 0, 0
+  index: -1
+Layer 15
+  rotate: false
+  xy: 2, 38
+  size: 43, 27
+  orig: 43, 27
+  offset: 0, 0
+  index: -1
+Layer 16
+  rotate: false
+  xy: 99, 192
+  size: 80, 54
+  orig: 80, 54
+  offset: 0, 0
+  index: -1
+Layer 17
+  rotate: false
+  xy: 181, 210
+  size: 41, 36
+  orig: 41, 36
+  offset: 0, 0
+  index: -1
+Layer 18
+  rotate: true
+  xy: 62, 86
+  size: 35, 22
+  orig: 35, 22
+  offset: 0, 0
+  index: -1
+Layer 18 copy
+  rotate: true
+  xy: 224, 211
+  size: 35, 22
+  orig: 35, 22
+  offset: 0, 0
+  index: -1
+Layer 19
+  rotate: false
+  xy: 2, 67
+  size: 58, 54
+  orig: 58, 54
+  offset: 0, 0
+  index: -1
+Layer 20
+  rotate: false
+  xy: 2, 183
+  size: 95, 63
+  orig: 95, 63
+  offset: 0, 0
+  index: -1

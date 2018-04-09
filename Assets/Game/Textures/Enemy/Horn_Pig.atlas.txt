@@ -1,0 +1,62 @@
+
+Horn_Pig.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: false
+  xy: 2, 6
+  size: 74, 51
+  orig: 74, 51
+  offset: 0, 0
+  index: -1
+Hat
+  rotate: false
+  xy: 2, 59
+  size: 93, 63
+  orig: 93, 63
+  offset: 0, 0
+  index: -1
+L_Leg_01
+  rotate: false
+  xy: 104, 21
+  size: 16, 19
+  orig: 16, 19
+  offset: 0, 0
+  index: -1
+L_Leg_11
+  rotate: true
+  xy: 97, 63
+  size: 26, 25
+  orig: 26, 25
+  offset: 0, 0
+  index: -1
+Mouth
+  rotate: true
+  xy: 97, 91
+  size: 31, 24
+  orig: 31, 24
+  offset: 0, 0
+  index: -1
+R_Leg_01
+  rotate: false
+  xy: 104, 42
+  size: 18, 19
+  orig: 18, 19
+  offset: 0, 0
+  index: -1
+R_Leg_11
+  rotate: false
+  xy: 78, 32
+  size: 24, 25
+  orig: 24, 25
+  offset: 0, 0
+  index: -1
+Tail
+  rotate: false
+  xy: 78, 13
+  size: 24, 17
+  orig: 24, 17
+  offset: 0, 0
+  index: -1

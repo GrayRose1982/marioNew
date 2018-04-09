@@ -1,0 +1,76 @@
+
+Char_Fire.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Back
+  rotate: false
+  xy: 2, 100
+  size: 57, 54
+  orig: 57, 54
+  offset: 0, 0
+  index: -1
+Body
+  rotate: false
+  xy: 108, 169
+  size: 50, 54
+  orig: 50, 54
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 2, 156
+  size: 104, 67
+  orig: 104, 67
+  offset: 0, 0
+  index: -1
+L_Arm_01
+  rotate: false
+  xy: 2, 2
+  size: 21, 23
+  orig: 21, 23
+  offset: 0, 0
+  index: -1
+L_Arm_02
+  rotate: false
+  xy: 160, 181
+  size: 28, 42
+  orig: 28, 42
+  offset: 0, 0
+  index: -1
+L_Leg
+  rotate: false
+  xy: 29, 59
+  size: 30, 39
+  orig: 30, 39
+  offset: 0, 0
+  index: -1
+Neck
+  rotate: true
+  xy: 2, 27
+  size: 71, 25
+  orig: 71, 25
+  offset: 0, 0
+  index: -1
+R_Arm_01
+  rotate: false
+  xy: 190, 194
+  size: 26, 29
+  orig: 26, 29
+  offset: 0, 0
+  index: -1
+R_Arm_02
+  rotate: false
+  xy: 61, 109
+  size: 35, 45
+  orig: 35, 45
+  offset: 0, 0
+  index: -1
+R_Leg
+  rotate: false
+  xy: 61, 69
+  size: 29, 38
+  orig: 29, 38
+  offset: 0, 0
+  index: -1

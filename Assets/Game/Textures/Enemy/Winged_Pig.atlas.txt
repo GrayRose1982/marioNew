@@ -1,0 +1,76 @@
+
+Winged_Pig.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: false
+  xy: 2, 121
+  size: 80, 59
+  orig: 80, 59
+  offset: 0, 0
+  index: -1
+L_Leg_01
+  rotate: false
+  xy: 84, 132
+  size: 16, 20
+  orig: 16, 20
+  offset: 0, 0
+  index: -1
+L_Leg_11
+  rotate: false
+  xy: 84, 154
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+L_Wing
+  rotate: true
+  xy: 123, 185
+  size: 33, 38
+  orig: 33, 38
+  offset: 0, 0
+  index: -1
+Mouth
+  rotate: false
+  xy: 2, 29
+  size: 42, 39
+  orig: 42, 39
+  offset: 0, 0
+  index: -1
+Pig_Dead
+  rotate: false
+  xy: 2, 182
+  size: 119, 36
+  orig: 119, 36
+  offset: 0, 0
+  index: -1
+R_Leg_01
+  rotate: false
+  xy: 163, 199
+  size: 18, 19
+  orig: 18, 19
+  offset: 0, 0
+  index: -1
+R_Leg_11
+  rotate: false
+  xy: 2, 2
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+R_Wing
+  rotate: false
+  xy: 2, 70
+  size: 54, 49
+  orig: 54, 49
+  offset: 0, 0
+  index: -1
+Tail
+  rotate: true
+  xy: 58, 93
+  size: 26, 17
+  orig: 26, 17
+  offset: 0, 0
+  index: -1

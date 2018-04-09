@@ -1,0 +1,76 @@
+
+Char_Small.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Back
+  rotate: false
+  xy: 2, 60
+  size: 31, 26
+  orig: 31, 26
+  offset: 0, 0
+  index: -1
+Body
+  rotate: false
+  xy: 61, 98
+  size: 26, 28
+  orig: 26, 28
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 2, 88
+  size: 57, 38
+  orig: 57, 38
+  offset: 0, 0
+  index: -1
+L_Arm_01
+  rotate: false
+  xy: 18, 25
+  size: 12, 14
+  orig: 12, 14
+  offset: 0, 0
+  index: -1
+L_Arm_02
+  rotate: false
+  xy: 89, 104
+  size: 16, 22
+  orig: 16, 22
+  offset: 0, 0
+  index: -1
+L_Leg
+  rotate: false
+  xy: 2, 2
+  size: 16, 19
+  orig: 16, 19
+  offset: 0, 0
+  index: -1
+Neck
+  rotate: true
+  xy: 2, 23
+  size: 35, 14
+  orig: 35, 14
+  offset: 0, 0
+  index: -1
+R_Arm_01
+  rotate: false
+  xy: 18, 41
+  size: 14, 17
+  orig: 14, 17
+  offset: 0, 0
+  index: -1
+R_Arm_02
+  rotate: false
+  xy: 35, 63
+  size: 18, 23
+  orig: 18, 23
+  offset: 0, 0
+  index: -1
+R_Leg
+  rotate: false
+  xy: 107, 109
+  size: 14, 17
+  orig: 14, 17
+  offset: 0, 0
+  index: -1

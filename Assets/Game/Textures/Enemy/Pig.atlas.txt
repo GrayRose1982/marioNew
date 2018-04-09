@@ -1,0 +1,62 @@
+
+Pig.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: false
+  xy: 2, 30
+  size: 79, 58
+  orig: 79, 58
+  offset: 0, 0
+  index: -1
+L_Leg_01
+  rotate: true
+  xy: 83, 28
+  size: 16, 19
+  orig: 16, 19
+  offset: 0, 0
+  index: -1
+L_Leg_11
+  rotate: false
+  xy: 2, 2
+  size: 27, 26
+  orig: 27, 26
+  offset: 0, 0
+  index: -1
+Mouth
+  rotate: true
+  xy: 83, 46
+  size: 42, 38
+  orig: 42, 38
+  offset: 0, 0
+  index: -1
+Pig_Dead
+  rotate: false
+  xy: 2, 90
+  size: 119, 36
+  orig: 119, 36
+  offset: 0, 0
+  index: -1
+R_Leg_01
+  rotate: false
+  xy: 104, 26
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+R_Leg_11
+  rotate: false
+  xy: 31, 2
+  size: 25, 26
+  orig: 25, 26
+  offset: 0, 0
+  index: -1
+Tail
+  rotate: true
+  xy: 58, 4
+  size: 24, 17
+  orig: 24, 17
+  offset: 0, 0
+  index: -1
